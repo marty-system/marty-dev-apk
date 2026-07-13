@@ -1,2 +1,0 @@
-branch=dev
-sha=8294507b7c99c5b99630bdb91c825825978edaa5
